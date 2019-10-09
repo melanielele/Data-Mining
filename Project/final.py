@@ -1,5 +1,4 @@
-#This homework is completed by melanie zhao, zisong guo, and      without consulting others 
-#https://medium.com/@rnbrown/creating-and-visualizing-decision-trees-with-python-f8e8fa394176
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
